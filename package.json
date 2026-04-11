@@ -1,0 +1,39 @@
+{
+    "name": "heyduck",
+    "version": "1.0.2",
+    "description": "A fast CLI tool to search DuckDuckGo and instantly get keyword-based results with links, formatted output, JSON support, and customizable result limits.",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "bin": {
+        "heyduck": "./script.js"
+    },
+    "keywords": [
+        "cli",
+        "search",
+        "duckduckgo",
+        "terminal",
+        "command-line",
+        "scraper",
+        "search-engine",
+        "productivity",
+        "developer-tools",
+        "nodejs",
+        "automation",
+        "cli-tool",
+        "json-output",
+        "web-search",
+        "fast-search"
+    ],
+    "author": "aliashraf34",
+    "license": "ISC",
+    "packageManager": "pnpm@10.30.3",
+    "dependencies": {
+        "axios": "^1.13.6",
+        "chalk": "^5.6.2",
+        "cheerio": "^1.2.0",
+        "wrap-ansi": "^10.0.0"
+    }
+}
