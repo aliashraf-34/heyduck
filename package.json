@@ -1,6 +1,6 @@
 {
     "name": "heyduck",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "A fast CLI tool to search DuckDuckGo and instantly get keyword-based results with links, formatted output, JSON support, and customizable result limits.",
     "main": "index.js",
     "type": "module",
