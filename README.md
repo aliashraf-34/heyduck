@@ -158,4 +158,7 @@ Pull requests and suggestions are welcome.
 
 ## 🔥 Author
 
-Built for fast terminal-based searching with focus on speed, simplicity, and usability.
+Ali Ashraf 
+
+[Npm](https://www.npmjs.com/~aliashraf34)
+[Github](https://github.com/aliashraf-34)
