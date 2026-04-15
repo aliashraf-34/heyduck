@@ -160,5 +160,5 @@ Pull requests and suggestions are welcome.
 
 Ali Ashraf 
 
-[Npm](https://www.npmjs.com/~aliashraf34)
+[NPM](https://www.npmjs.com/~aliashraf34)
 [Github](https://github.com/aliashraf-34)
